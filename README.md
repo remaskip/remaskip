@@ -1,0 +1,5 @@
+- 👋 Salut, Je suis @remaskip
+- 👀 Je m'intéresse à la musique, l'informatique et le développement.
+- 🌱 J'apprends actuellement les arts.
+- 💞️ Je cherche à collaborer sur un hébergeur en ligne.
+- 📫 Comment me joindre ? Écrivez moi un mail a rem@remaskip.tech
